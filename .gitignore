@@ -52,3 +52,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+models/ePhi-4-mini-reasoning-Q4_K_M.gguf
